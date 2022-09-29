@@ -3,6 +3,7 @@
 ## Technology
 * Next.JS
 * SCSS
+* Firebase
 
 ## Features
 * [ ] MDX Blogs
